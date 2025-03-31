@@ -1,13 +1,19 @@
-const heading = React.createElement(
-  "div",
-  { id: "parent" },
-  React.createElement(
-    "div",
-    { id: "child" },
-    [React.createElement("h1", { id: "child" }, "hello"),React.createElement("h1", { id: "child" }, "hello")]
-  )
-);
+import React from "react";
+import ReactDOM from "react-dom/client";
+import Hedaer from "./components/Header";
+import ResturantCard from "./components/ResturantCard";
+import Body from "./components/Body";
+
+
+const AppLayout = () => {
+  return (
+    <div className="app">
+      <Hedaer />
+      <Body />
+    </div>
+  );
+};
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(heading);
+root.render(<AppLayout />);
