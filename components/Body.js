@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from "react";
-import resList from "../utils/mockData";
+// import resList from "../utils/mockData";
 import ResturantCard from "./ResturantCard";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
+import useOnlineStatus from "../utils/useOnlineStatus";
 
 const Body = () => {
   const [listOfRestaurant, setListOfRestaurant] = useState([]);
   const [filterRestaurant, setFilterRestaurant] = useState([]);
   const [searchText, setSearchText] = useState("");
+
+  const onlineStatus = useOnlineStatus();
 
   useEffect(() => {
     fetchData();
@@ -35,6 +38,10 @@ const Body = () => {
     const data = listOfRestaurant.filter((res) => res.info.avgRating > 4);
     setFilterRestaurant(data);
   };
+
+  if(onlineStatus === false){
+    return <h1>You are offline. Please check your internet connection and try again.</h1>
+  }
 
   return listOfRestaurant.length === 0 ? (
     <Shimmer />
