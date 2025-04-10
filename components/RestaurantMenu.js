@@ -27,8 +27,14 @@ const RestaurantMenu = () => {
       <h2>Menu</h2>
       <ul>
         {itemCards?.map((item) => (
-          <li key={item.card.info.id}>
-            {item.card.info.name} - {"Rs"} {item.card.info.price / 100}
+          <li key={item.card.info.id} style={{ marginBottom: "10px" }}>
+            {item.card.info.name} - ₹{item.card.info.price / 100}
+            <button
+              className="item-action-btn"
+              onClick={() => handleAction(item.card.info)}
+            >
+              Add +
+            </button>
           </li>
         ))}
       </ul>
