@@ -1,12 +1,16 @@
-import React, { useState } from "react";
+import React, { useState,useContext } from "react";
 import { LOGO_URL } from "../utils/contants";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 const Hedaer = () => {
   const [btnNameReact,setBtnNameReact] = useState("Login");
-
+   
   const onlineStatus = useOnlineStatus();
+
+  const {loggedInUser} = useContext(UserContext);
+
 
     return (
       <div className="header">
@@ -27,6 +31,7 @@ const Hedaer = () => {
             <button className="login-btn" onClick={()=>{
                btnNameReact === "Login" ? setBtnNameReact("Logout") : setBtnNameReact("Login")
             }}>{btnNameReact}</button>
+            <li>{loggedInUser}</li>
           </ul>
         </div>
       </div>

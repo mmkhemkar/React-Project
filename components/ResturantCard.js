@@ -1,8 +1,11 @@
-import React from "react";
+import React, { useContext } from "react";
 import { CDN_URL } from "../utils/contants";
+import UserContext from "../utils/UserContext";
 
 const ResturantCard = ({ resName }) => {
     const { name, cuisines, avgRating, costForTwo } = resName.info;
+
+    const {loggedInUser} = useContext(UserContext);
     return (
       <div className="res-card">
         <img
@@ -17,9 +20,22 @@ const ResturantCard = ({ resName }) => {
         <h4>{avgRating} star</h4>
         <h4>{costForTwo}</h4>
         <h4>{resName.info?.sla.deliveryTime} Minutes</h4>
+        <h4>User : {loggedInUser}</h4>
       </div>
     );
   };
+
+// Higher order component
+  export const withPromotedLable = (ResturantCard) =>{
+    return (props)=>{
+      return(
+        <div>
+          <label style={{color:'red'}}>Promoted</label>
+          <ResturantCard {...props}/>
+        </div>
+      )
+    }
+  }
 
 
   export default ResturantCard;

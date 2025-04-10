@@ -1,9 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 // import resList from "../utils/mockData";
-import ResturantCard from "./ResturantCard";
+import ResturantCard, { withPromotedLable } from "./ResturantCard";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 const Body = () => {
   const [listOfRestaurant, setListOfRestaurant] = useState([]);
@@ -11,6 +12,9 @@ const Body = () => {
   const [searchText, setSearchText] = useState("");
 
   const onlineStatus = useOnlineStatus();
+  const RestaurantCardPromoted = withPromotedLable(ResturantCard);
+
+  const {loggedInUser,setUserName} = useContext(UserContext)
 
   useEffect(() => {
     fetchData();
@@ -47,7 +51,7 @@ const Body = () => {
     <Shimmer />
   ) : (
     <div className="body">
-      <div className="filter">
+      <div className="top-controls">
         <div className="search">
           <input
             type="text"
@@ -60,10 +64,18 @@ const Body = () => {
         <button className="filter-btn" onClick={filteredData}>
           Top Rated Restaurants
         </button>
+        <label className="input-filed">UserName : </label>
+        <input type="text" value={loggedInUser} onChange={(e)=>setUserName(e.target.value)}/>
       </div>
+   
       <div className="res-container">
         {filterRestaurant?.map((restaurant) => (
-         <Link key={restaurant.info.id} to={"/restaurants/"+ restaurant.info.id}> <ResturantCard  resName={restaurant} /></Link>
+          <Link
+            key={restaurant.info.id}
+            to={"/restaurants/" + restaurant.info.id}
+          >
+            { restaurant.info.avgRating === 4.3 ? <RestaurantCardPromoted  resName={restaurant}/> : <ResturantCard resName={restaurant} />}
+          </Link>
         ))}
       </div>
     </div>
