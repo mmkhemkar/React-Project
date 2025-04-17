@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Shimmer from "./Shimmer";
 import { useParams } from "react-router-dom";
 import useRestaurantMenu from "../utils/useRestaurantMenu";
+import { useDispatch } from "react-redux";
+import { addItem } from "../utils/cartSlice";
 const RestaurantMenu = () => {
 
   const { resId} = useParams();
@@ -12,14 +14,23 @@ const RestaurantMenu = () => {
     return <Shimmer />;
   }
 
-  const { name, cuisines, costForTwoMessage } =
-    resInfo?.cards[2]?.card?.card?.info;
+    const { name, cuisines, costForTwoMessage } =
+    resInfo.cards[2]?.card.card.info;
   const { itemCards } =
-    resInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[2]?.card?.card;
+    resInfo.cards[4]?.groupedCard.cardGroupMap.REGULAR.cards[2].card.card;
+
+  
 
 
+    const dispatch = useDispatch()
+
+    const handleAddItems = (item) =>{
+      dispatch(addItem(item))
+    }
+
+console.log("itemCards",itemCards)
   return (
-    <div className="menu">
+    <div data-testid="foodItems"  className="menu">
       <h1>{name}</h1>
       <p>
         {cuisines.join(",")}- {costForTwoMessage}
@@ -28,10 +39,10 @@ const RestaurantMenu = () => {
       <ul>
         {itemCards?.map((item) => (
           <li key={item.card.info.id} style={{ marginBottom: "10px" }}>
-            {item.card.info.name} - ₹{item.card.info.price / 100}
+            {item.card.info.name} - ₹{item.card.info.price / 100 || item.card.info.defaultPrice / 100} 
             <button
               className="item-action-btn"
-              onClick={() => handleAction(item.card.info)}
+              onClick={()=>handleAddItems(item)}
             >
               Add +
             </button>

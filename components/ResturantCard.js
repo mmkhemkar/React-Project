@@ -3,11 +3,12 @@ import { CDN_URL } from "../utils/contants";
 import UserContext from "../utils/UserContext";
 
 const ResturantCard = ({ resName }) => {
+  console.log("resName",resName)
     const { name, cuisines, avgRating, costForTwo } = resName.info;
 
     const {loggedInUser} = useContext(UserContext);
     return (
-      <div className="res-card">
+      <div data-testid="resCard" className="res-card">
         <img
           className="res-logo"
           src={

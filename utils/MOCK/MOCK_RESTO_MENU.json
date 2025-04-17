@@ -1,0 +1,3696 @@
+[
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150993979",
+                "name": "Crispy Veggie Burger.",
+                "category": "Korean Range & New Offerings",
+                "description": "A flavorful patty made with a blend of 7 premium veggies, topped with zesty cocktail sauce, all served between soft, premium buns. Perfectly satisfying and full of flavor.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/7a3244bf-3091-4ae6-92e3-13be841a753e_b21f7a05-24b3-43f8-a592-beb23e6b69fa.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 20000,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "7 ratings",
+                        "ratingCountV2": "7"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150993988",
+                "name": "Crispy Veggie Burger + McVeggie Burger + Fries (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Feel the crunch with Crispy Veggie Burger+ McVeggie + Fries (M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/c6dd67c1-0af9-4333-a4b5-3501e0ce4579_2fee69c9-f349-46c5-bdd9-8965b9f76687.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 42476,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150993990",
+                "name": "Crispy Veggie Burger Meal (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "A flavorful patty with 7 premium veggies, zesty cocktail sauce, and soft buns, paired with crispy fries (M) and a refreshing Coke (M). A perfectly satisfying and full-flavored meal!",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/eb4650ba-e950-4953-b1a7-c03a691ac0d2_6ca20c30-4c62-462a-b46d-9d1f21786b49.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 32700,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "176116221",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "176116222",
+                        "groupName": "Choose an option for Choice - Add on",
+                        "choices": [
+                            {
+                                "id": "117293556",
+                                "name": "Chocochip Muffin",
+                                "price": 14200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "110044250",
+                                "name": "Mcflurry Oreo ( S )",
+                                "price": 10400,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "176116223",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.8",
+                        "ratingCount": "4 ratings",
+                        "ratingCountV2": "4"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150994003",
+                "name": "Mc Crispy Chicken Burger.",
+                "category": "Korean Range & New Offerings",
+                "description": "A crunchy, golden chicken thigh fillet, topped with fresh lettuce and creamy pepper mayo, all nestled between soft, toasted premium buns. Perfectly satisfying and full of flavor.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/df040551-263c-4074-86ee-68cb8cd393ba_3a5e53c6-601e-44a8-bf2e-590bffd7ee5e.png",
+                "inStock": 1,
+                "price": 22400,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "26 ratings",
+                        "ratingCountV2": "26"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150994009",
+                "name": "Mc Crispy Chicken Burger Meal (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "A crunchy, golden chicken thigh fillet with fresh lettuce and creamy pepper mayo between soft, toasted premium buns, served with crispy fries (M) and a refreshing Coke (M). A perfectly satisfying and full-flavored meal!",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/eedf0540-f558-4945-b996-994b1cd58048_d9af8cc8-384e-48c3-ab59-2facadfe574a.png",
+                "inStock": 1,
+                "price": 36700,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "176116231",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "176116233",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "8 ratings",
+                        "ratingCountV2": "8"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "150994014",
+                "name": "Mc Crispy Chicken Burger + McChicken Burger + Fries (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Feel the crunch with McCrispy Chicken Burger+ McChicken + Fries (M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/12/eaeeaf30-7bb6-4bef-9b78-643533a4520c_e54bb308-0447-44c2-9aaf-f36ce25f7939.png",
+                "inStock": 1,
+                "price": 43047,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.4",
+                        "ratingCount": "3 ratings",
+                        "ratingCountV2": "3"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424414",
+                "name": "Korean Chicken Surprise Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Introducing a taste sensation like no other: the Korean Chicken Surprise, where a crispy chicken patty meets delicious Gochujang sauce, crunchy lettuce, and soft, toasted buns",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/3c74ee13-5fdc-477e-8e2f-07924f0b246d_4c91e66e-bf0b-4039-8d29-3564b0efc688.png",
+                "inStock": 1,
+                "price": 9142,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424417",
+                "name": "Korean Chicken Surprise Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Introducing a taste sensation like no other: the Korean Chicken Surprise, where a crispy chicken patty meets delicious Gochujang sauce, and crunchy lettuce, with fries ( M) and beverage of your choice ( M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/fe85d766-f9b9-4586-b40c-ef9a4a8a5a20_25d8f52d-d20f-4df7-84b9-59607783362f.png",
+                "inStock": 1,
+                "price": 25333,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387100",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387101",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424420",
+                "name": "Korean Mc Aloo Tikki Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Experience the bold flavors of Korea with our limited-time McAloo Tikki burger, boasting a signature Aloo patty, delicious Gochujang sauce, fresh lettuce, and warm, toasted buns",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/c52f1921-b94e-48e6-b02e-ad45f31284b1_1a49aa3b-d825-4e4c-983a-2a49f0efb403.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 9047,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                },
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "isBestseller": true,
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.2",
+                        "ratingCount": "15 ratings",
+                        "ratingCountV2": "15"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424425",
+                "name": "Korean Mc Aloo Tikki Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Experience the bold flavors of Korea with our limited-time McAloo Tikki burger, boasting a signature Aloo patty, Gochujang sauce and fresh lettuce, with fries ( M) + beverage of your choice (M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/d6f34290-2bdc-4935-b74d-47a30a1ba49c_955da8e9-7db8-46f5-9b4c-6411aa0633f9.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 22000,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387107",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387109",
+                        "groupName": "Choose an option for Choice - Add on",
+                        "choices": [
+                            {
+                                "id": "117293556",
+                                "name": "Chocochip Muffin",
+                                "price": 14200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "110044250",
+                                "name": "Mcflurry Oreo ( S )",
+                                "price": 10400,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387110",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424432",
+                "name": "Korean Mc Egg Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Egg-cellent news! Our Korean McEgg is here, packed with a steamed egg patty, spicy Gochujang sauce, and crunchy lettuce on a toasted bun",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/d0792549-5bd9-49f8-ac97-25cd4cb8db0f_e03bfb9b-6dc9-4ec4-b721-c219fee8d277.png",
+                "inStock": 1,
+                "price": 8666,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424437",
+                "name": "Korean Mc Egg Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Egg-cellent news! Our Korean McEgg is here, packed with a steamed egg patty, delicious Gochujang sauce, and crunchy lettuce with fries (M ) and beverage of your choice ( M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/be4e2569-f8b8-42e4-bc63-3ae52a1c6502_149c9764-c587-40a7-9479-7cda5a1b308a.png",
+                "inStock": 1,
+                "price": 24000,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387118",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387120",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424440",
+                "name": "Korean Mc Spicy Chicken Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Get ready for a flavor explosion! Try our Korean McSpicy Chicken, featuring the iconic spicy chicken patty, Gochujang sauce, and fresh lettuce between sesame seeded bun",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/6c167fee-b374-4425-9b0f-0669b70260c2_6e289534-755c-42fd-8a93-6880c91071ce.png",
+                "inStock": 1,
+                "price": 24380,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424444",
+                "name": "Korean Mc Spicy Chicken Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Get ready for a flavor explosion! Try our Korean McSpicy Chicken, featuring the iconic spicy chicken patty, spicy Gochujang sauce, and fresh lettuce with fries ( M) and beverage of your choice ( M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/fe146ff6-22cc-4e35-aac0-4ef042f416df_c6caa410-6e8a-4c3a-a11a-c6b5858ffa00.png",
+                "inStock": 1,
+                "price": 37238,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387128",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387129",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.2",
+                        "ratingCount": "3 ratings",
+                        "ratingCountV2": "3"
+                    }
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424447",
+                "name": "Korean Mc Spicy Paneer Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Taste the magic of Korea and India united: our Korean McSpicy Paneer is a mouthwatering blend of spicy paneer patty, delicious Gochujang sauce, lettuce, and sesame seeded buns.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/fbe115bf-e31e-4613-b1cd-76f1a1f2c990_92f1bf54-38bc-4e6f-b5aa-6fcbeff43342.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 23523,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424454",
+                "name": "Korean Mc Spicy Paneer Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Taste the magic of Korea and India united: our Korean McSpicy Paneer is a mouthwatering blend of spicy paneer patty, delicious Gochujang sauce, and lettuce with fries ( M) & beverage of your choice ( M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/07491688-68fc-4d2b-a80a-927819ef73d1_7b472b92-2bb1-46a9-bf5d-e595e6fb6a67.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 36190,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387137",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387138",
+                        "groupName": "Choose an option for Choice - Add on",
+                        "choices": [
+                            {
+                                "id": "117293556",
+                                "name": "Chocochip Muffin",
+                                "price": 14200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "110044250",
+                                "name": "Mcflurry Oreo ( S )",
+                                "price": 10400,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387140",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424457",
+                "name": "Korean Mc Spicy Premium Chicken Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Elevate your burger game with our Korean McSpicy Premium Chicken, featuring a spicy chicken patty, steamed egg patty, crunchy lettuce, melted cheese, and a bold duo of spicy Gochujang and creamy cheese sauces",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/f7c147b9-e944-4813-ba73-b021fe9bd819_cbc5bd80-7f9d-4b89-9812-f0c9a69f54c2.png",
+                "inStock": 1,
+                "price": 31333,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424462",
+                "name": "Korean Mc Spicy Premium Chicken Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Elevate your burger game with our Korean McSpicy Premium Chicken, featuring a spicy chicken patty, steamed egg patty, crunchy lettuce, melted cheese, and a bold duo of spicy Gochujang and creamy cheese sauces with fries (M) & beverage of your choice (M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/7670b780-54f7-4f1f-9afe-98dc8c724fed_0499fd5e-5e25-4bb8-b49b-90be39dca465.png",
+                "inStock": 1,
+                "price": 44000,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387149",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387150",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424464",
+                "name": "Korean Mc Spicy Premium Paneer Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Discover a veg delight like no other with our Korean McSpicy Premium Veg, combining a wholesome spicy paneer patty, crunchy lettuce, cheese slice, spicy Gochujang sauce and cheese sauce blend.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/c845f4a9-9b47-46e4-85d2-4230a352cc69_a793f0bc-0687-46f3-a348-7665b3c842f6.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 31333,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424470",
+                "name": "Korean Mc Spicy Premium Paneer Burger Combo (M).",
+                "category": "Korean Range & New Offerings",
+                "description": "Discover a veg delight like no other with our Korean McSpicy Premium Veg, combining a wholesome spicy paneer patty, crunchy lettuce, cheese slice, spicy Gochujang sauce and cheese sauce blend with fries (M) & beverage of your choice (M)",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/15b1e6ab-f953-40f0-81e7-5eafcb429c08_0b3b3f30-a8a9-4d36-ad30-848ef5e83d03.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 43047,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387158",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387160",
+                        "groupName": "Choose an option for Choice - Add on",
+                        "choices": [
+                            {
+                                "id": "117293556",
+                                "name": "Chocochip Muffin",
+                                "price": 14200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "110044250",
+                                "name": "Mcflurry Oreo ( S )",
+                                "price": 10400,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "210387161",
+                        "groupName": "Choose an option for Fries (Medium)",
+                        "choices": [
+                            {
+                                "id": "110047291",
+                                "name": "Fries (Large)",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424473",
+                "name": "Korean Yuzu-Pop Sprite",
+                "category": "Korean Range & New Offerings",
+                "description": "Fall in love with the taste of Korea with our Korean Yuzu-pop, a bold and citrusy spin on the classic Sprite, infused with the vibrant flavors of Korea.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/7f99e507-c983-45f3-aa3c-b16965bc7117_e19a8d87-9591-4ea2-8da9-c806f1fe65c9.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 10476,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "isBolt": true,
+                "boltImageId": "bolt/bolt-tag/bolt_menu_tag.png",
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424477",
+                "name": "McSaver Korean Chicken Surprise Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Introducing a taste sensation like no other: the Korean Chicken Surprise, where a crispy chicken patty meets delicious Gochujang sauce, and crunchy lettuce, with beverage of your choice.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/5f61b8a6-b79e-424d-a91f-dcc266623d2d_f83fe58b-4f76-4dda-927b-2525c1987559.png",
+                "inStock": 1,
+                "price": 11904,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387165",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "119686831",
+                                "name": "Cold Coffee",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686829",
+                                "name": "Chocolate Flavoured Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686830",
+                                "name": "Strawberry Shake ",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686836",
+                                "name": "Berry Cooler ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686834",
+                                "name": "Iced Coffee ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686835",
+                                "name": "Small Cappuccino",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686832",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686833",
+                                "name": "Sprite ",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424483",
+                "name": "McSaver Korean Mc Aloo Tikki Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Experience the bold flavors of Korea with our limited-time McAloo Tikki burger, boasting a signature Aloo patty, delicious Gochujang sauce, fresh lettuce + Beverage of your choice",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/4617b70d-c983-422d-9950-2e79e6cd93dc_03c3c584-589e-4579-97d9-c71fca41840d.png",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 11904,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387171",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "119686831",
+                                "name": "Cold Coffee",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686829",
+                                "name": "Chocolate Flavoured Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686830",
+                                "name": "Strawberry Shake ",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686836",
+                                "name": "Berry Cooler ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686834",
+                                "name": "Iced Coffee ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686835",
+                                "name": "Small Cappuccino",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686832",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686833",
+                                "name": "Sprite ",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "167424488",
+                "name": "McSaver Korean Mc Egg Burger",
+                "category": "Korean Range & New Offerings",
+                "description": "Egg-cellent news! Our Korean McEgg is here, packed with a steamed egg patty, delicious Gochujang sauce, and crunchy lettuce with beverage of your choice",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/20/3520ece4-d223-45bd-a386-fb02b175cdee_4349cb45-d5eb-4722-bdac-8dd1ea04a7ef.png",
+                "inStock": 1,
+                "price": 11904,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "210387176",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "119686831",
+                                "name": "Cold Coffee",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686829",
+                                "name": "Chocolate Flavoured Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686830",
+                                "name": "Strawberry Shake ",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686836",
+                                "name": "Berry Cooler ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686834",
+                                "name": "Iced Coffee ",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686835",
+                                "name": "Small Cappuccino",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686832",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "119686833",
+                                "name": "Sprite ",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "168009790",
+                "name": "Minecraft Movie Meal - 9 Pc Chicken Nuggets.",
+                "category": "Korean Range & New Offerings",
+                "description": "Grab the limited-edition Minecraft Combo with your classic 9 Pc Chicken Nuggets + (M) Fries + Coke + New Nether Flame Dip +  1 collectible card!",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/27/d3056cb1-aeda-4244-969e-2c186ae02e30_7fd34f37-443e-400f-8af1-5e8d7d49ce06.png",
+                "inStock": 1,
+                "price": 34857,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "211794745",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "168009792",
+                "name": "Minecraft Movie Meal - Pizza McPuff.",
+                "category": "Korean Range & New Offerings",
+                "description": "Grab the limited-edition Minecraft Combo with your favourite Pizza Puff + (M) Fries + Coke + New Nether Flame Dip +  1 collectible card!",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/27/80c34db2-22f2-4870-9fec-ca42c2366fa3_ace31772-34ef-4c76-9fa5-7e095ab6782a.jpg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 25904,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "211794747",
+                        "groupName": "Choose an option for Coke",
+                        "choices": [
+                            {
+                                "id": "100541776",
+                                "name": "Upgrade to McCafe-Classic Coffee",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541775",
+                                "name": "Upgrade to Strawberry Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541774",
+                                "name": "Upgrade to  Chocolate Flavoured Shake",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541773",
+                                "name": "Upgrade to Cappuccino Coffee (S)",
+                                "price": 4700,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614790",
+                                "name": "Fanta",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "100541778",
+                                "name": "Upgrade to American Mud Pie Shake",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487429",
+                                "name": "Mocha Coffee (R)",
+                                "price": 13600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "94487426",
+                                "name": "Sprite",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135920919",
+                                "name": "Cappuccino Coffee (R)",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "95614788",
+                                "name": "Latte Coffee (R)",
+                                "price": 10200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "135147701",
+                                "name": "Upgrade to Korean Yuzu-Pop Sprite",
+                                "price": 1900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447786",
+                                "name": "Iced Coffee with French Vanilla",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447784",
+                                "name": "Cappuccino Small with French Vanilla",
+                                "price": 8100,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447782",
+                                "name": "Iced Coffee with Hazelnut",
+                                "price": 12300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "121447781",
+                                "name": "Cappuccino Small with Hazelnut",
+                                "price": 8200,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293559",
+                                "name": "Upgrade to Mixed Berry Smoothie",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293557",
+                                "name": "Upgrade to Mocha Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293553",
+                                "name": "Upgrade to Chocolate Frappe",
+                                "price": 7600,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293554",
+                                "name": "Upgrade to Iced Coffee",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293551",
+                                "name": "Upgrade to Hot Chocolate",
+                                "price": 8000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293552",
+                                "name": "Mango Smoothie",
+                                "price": 11000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "117293550",
+                                "name": "Coke Zero Can",
+                                "price": 3300,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "115421138",
+                                "name": "Upgrade to Berry Cooler",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 1,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "type": "ITEM",
+                "offerTags": [
+                    {
+                        "title": "30% OFF",
+                        "subTitle": "USE TRYNEW",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "itemPriceStrikeOff": true,
+                "offerIds": [
+                    "cd3a156a-cb5a-4540-971d-637417394fe4"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    }
+]
